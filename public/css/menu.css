@@ -1,0 +1,27 @@
+#menubox {
+    margin:0px auto;
+    border-bottom: 1px solid #f1f1f1;
+    }
+#content {
+    margin-top:10px;
+    padding-bottom:10px;
+}
+#content div {
+    float:left;
+}
+#left_col {
+    float:left;
+    width:300px;
+}
+#mid_col {
+    margin-left:10px;
+    width:300px;
+}
+#right_col {
+    margin-left:10px;
+    width:200px;
+}
+
+#cleared {
+    clear: both;
+}
